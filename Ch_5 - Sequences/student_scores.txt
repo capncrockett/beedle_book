@@ -1,0 +1,6 @@
+Idle 99
+Cleese 86
+Chapman 91
+Gilliam 76
+Palin 86
+Jones 87

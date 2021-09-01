@@ -1,0 +1,49 @@
+T
+F
+T
+F
+T
+T
+F
+F
+T
+F
+c
+c
+b
+c
+b
+c
+a
+c
+a c
+c
+
+1. a) if this thing is true do this.
+   b) if this is true do this, otherwise do the other thing.
+   c) if this is true do this, otherwise do one of the other things. Of
+   those things, if that is true do that, otherwise do the other thing.
+2. Exception handling works more like a filter. It can send any errors
+   to a net to be sifted through. A good tactic when there is potential
+   for known errors. The if-else structure works to handle them before
+   problems arise. Like having a contingency plan in place for those
+   errors as opposed to just flagging it.
+3. a) Trees
+      Larch
+      Done
+   b) Trees
+      Chestnut
+      Done
+   c) Spam Please!
+      Done
+   d) Cheese Shoppe
+      Cheddar
+      Done
+   e) It's a late parrot!
+      Done
+   f) Cheese shoppe
+      Cheddar
+      Done
+
+11/04/1983
+11/04/1980

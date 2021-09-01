@@ -1,0 +1,27 @@
+F c
+F c
+T d
+T a
+T c
+F a
+T b
+F a
+F a / c
+F b
+
+2: a) random_int = randint(0, 11)
+   b) random_float = uniform(-0.5, 0.5)
+   c) d6 = randrange(1, 7)
+   d) 2_d6 = 2 * d6
+   e) random_float_neg = uniform(-10.0, 10.0)
+
+3: Spiral development would make sense if I wasn't totally sure what the
+program was going to do in the end. I would start at what I can do and
+work my way out. Let's start with just rolling a die. Then rolling two.
+Can I make a program that rolls multiple dice with multiple faces? Can
+I make it so a user can choose which ones to roll, and how many? Can I
+apply it to, or insert it into, a larger game like DnD?
+
+Solution: The issue here is mainly comfort/risk. When there is
+uncertainty whether the problem can even be solved, starting with an
+experimental prototype is probably a good idea.

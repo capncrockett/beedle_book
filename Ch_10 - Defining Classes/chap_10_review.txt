@@ -1,0 +1,43 @@
+1 T
+2 F (method)
+3 F (self)
+4 F
+5 F (record)
+6 T
+7 F
+8 T/F
+9 F
+10 T
+
+1 b
+2 a (needs self)
+3 d
+4 b
+5 c
+6 c/d
+7 c
+8 a
+9 c
+10 c
+
+1. Instance variable are specific to a class object. Regular function
+    variables are generally part of the main program.
+
+2. a) method is an internal function within a class object. It is
+    accessed via "." notation.
+   b) an instance variable is only used inside of a method. It can be
+    pulled into the main program.
+   c) a constructor is how we begin defining an object.
+   d) an accessor is the "." notation that allows us to call a method
+    on a class object.
+   e) a mutator I have no idea...
+
+3.
+Clowning around now.
+Creating a Bozo from 3
+Creating a Bozo from 4
+Clowning 3
+6
+9
+Clowning 6
+12
